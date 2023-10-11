@@ -1,0 +1,5 @@
+testType                       | username                       | password   | errorMessage                                      
+Empty email and password       |                                |            | Geçerli bir e-posta adresi girmelisin.            
+Empty email and password       |                                |            | Şifreni girebilir misin?                          
+Invalid email                  | abc                            | User123    | Geçerli bir e-posta adresi girmelisin.            
+Password less than 6 chars     | n11testaccount@mailinator.com  | 123        | Girilen değer en az 6 karakter olmalıdır.         
