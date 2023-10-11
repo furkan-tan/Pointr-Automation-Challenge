@@ -36,7 +36,7 @@ public class HomePage extends PageBase {
     public void clickLogoutButton() {
         logger.info("Logging Out from the Account");
         waitForVisibility(accountAvatar);
-        actions.moveToElement(accountAvatar).pause(1000).moveToElement(logoutButton).click().build().perform();
+        actions.moveToElement(accountAvatar).pause(2000).moveToElement(logoutButton).click().build().perform();
     }
 
     public boolean isLoginLinkVisible() {
