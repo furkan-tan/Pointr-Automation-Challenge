@@ -5,7 +5,7 @@ In this challenge we have handled some Login and Search scenarios on [N11.com](h
 
 Framework provides test automation process for only UI validations.
 
->To run tests please check [Maven Commands](#Maven Commands to run the tests on Terminal) section
+>To run tests please check [Maven Commands](# Maven Commands to run the tests on Terminal) section
 
 # Requirements:
 
