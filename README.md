@@ -88,11 +88,11 @@ All test results and screenshots will be stored under <b>results</b> directory
 
 Reports will be stored under <b>target</b> directory. There is a default cucumber html report under the directory. Detailed 3rd party HTML report will be under <b>target/cucumber-html-reports</b>
 
-##Login Results
+## Login Results
 
 Unsuccessful login attempts will be saved into <b>results/loginerror.txt</b> file. The file will have testType, username, password, errorMessage headers.
 
-##Search Results
+## Search Results
 
 Successful and unsuccessful results will be saved into  <b>results/results.txt</b> file. The file will have Search Term:<term>
 Results:, Screenshot:(as path). Screenshots of search results will be saved under <b>results/screenshots</b>
